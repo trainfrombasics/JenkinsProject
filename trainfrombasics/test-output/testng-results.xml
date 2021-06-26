@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-21T08:36:05 IST" name="Suite_06_21" finished-at="2021-06-21T08:36:05 IST" duration-ms="55">
+    <groups>
+    </groups>
+    <test started-at="2021-06-21T08:36:05 IST" name="Test" finished-at="2021-06-21T08:36:05 IST" duration-ms="55">
+      <class name="testPacakage.TestClass2">
+        <test-method signature="verifyLogin()[pri:0, instance:testPacakage.TestClass2@6bf0219d]" started-at="2021-06-21T08:36:05 IST" name="verifyLogin" finished-at="2021-06-21T08:36:05 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method signature="verifyRegistration()[pri:0, instance:testPacakage.TestClass2@6bf0219d]" started-at="2021-06-21T08:36:05 IST" name="verifyRegistration" finished-at="2021-06-21T08:36:05 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegistration -->
+      </class> <!-- testPacakage.TestClass2 -->
+      <class name="testPacakage.MyFirstTestngClass">
+        <test-method signature="test9()[pri:0, instance:testPacakage.MyFirstTestngClass@524d6d96]" started-at="2021-06-21T08:36:05 IST" name="test9" finished-at="2021-06-21T08:36:05 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test9 -->
+        <test-method signature="abcd()[pri:2, instance:testPacakage.MyFirstTestngClass@524d6d96]" started-at="2021-06-21T08:36:05 IST" name="abcd" finished-at="2021-06-21T08:36:05 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abcd -->
+        <test-method signature="test2()[pri:2, instance:testPacakage.MyFirstTestngClass@524d6d96]" started-at="2021-06-21T08:36:05 IST" name="test2" finished-at="2021-06-21T08:36:05 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- testPacakage.MyFirstTestngClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite_06_21 -->
+</testng-results>
