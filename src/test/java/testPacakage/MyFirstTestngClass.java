@@ -12,6 +12,8 @@ public class MyFirstTestngClass {
   @Test(priority=2)
   public void test2() {
 	  System.out.println("I am in test2");
+	  int x = 5/0;
+	  System.out.println("This step will not execute");
   }
   
   @Test(priority=2)
