@@ -7,7 +7,7 @@ pipeline {
     stages {
         stage('clean project') {
             steps {
-                git 'https://github.com/trainfrombasics/JenkinsProject.git'
+                //git 'https://github.com/trainfrombasics/JenkinsProject.git'
                 sh 'pwd'
                 sh "mvn -Dmaven.test.failure.ignore=true clean test"
             }
